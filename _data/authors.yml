@@ -1,3 +1,4 @@
 CrimsonCloak:
   name: CrimsonCloak
-  url: https://github.com/CrimsonCloak
+  social:
+    github: "https://github.com/CrimsonCloak"
