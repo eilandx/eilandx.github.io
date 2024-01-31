@@ -3,7 +3,7 @@ title: Setting up our first blog post
 date: 2023-01-31 
 categories: [Blogging, News]
 tags: [jekyll, chirpy]     # TAG names should always be lowercase
-author: 1
+author: CrimsonCloak
 ---
 
 # Setting up our first blog post using Jekyll and GitHub actions
