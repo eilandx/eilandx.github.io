@@ -15,7 +15,10 @@ Stumbling upon Jekyll, a way to generate static sites, we attempted to use this 
 ## Plans for the future
 
 We have yet to figure out in what way we will be using these blogposts and what all we will be sharing on here. Plans include:
+
 -  Guides for specific installations or deployments (think gameservers, monitoring solutions,...)
+
+- Documentation for usage of specific software that we love using or have tried out
 
 - Discussions or blogs on interesting topics that are relevant for us or which we find intriguing
 
