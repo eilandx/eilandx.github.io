@@ -1,6 +1,6 @@
 ---
 title: Setting up our first blog post 
-date: 2023-01-31 
+date: 2024-01-30
 categories: [Blogging, News]
 tags: [jekyll, chirpy]     # TAG names should always be lowercase
 author: CrimsonCloak
