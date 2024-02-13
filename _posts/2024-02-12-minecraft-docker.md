@@ -4,6 +4,7 @@ date: 2024-02-12
 categories: [Guide, Tutorial ]
 tags: [docker, minecraft, gaming]     # TAG names should always be lowercase
 author: CrimsonCloak
+pin: true
 ---
 
 In this guide, we will set up a simple Minecraft server using a Docker container on a Linux machine (Ubuntu 22.04) We will use a pre-made image, spin it up using `docker run`, manage it using `docker compose`, learn how to customize it and playtest it. 
