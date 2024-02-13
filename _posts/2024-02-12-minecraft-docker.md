@@ -6,8 +6,13 @@ tags: [docker, minecraft, gaming]     # TAG names should always be lowercase
 author: CrimsonCloak
 ---
 
+In this guide, we will set up a simple Minecraft server using a Docker container on a Linux machine (Ubuntu 22.04) We will use a pre-made image, spin it up using `docker run`, manage it using `docker compose`, learn how to customize it and playtest it. 
+
+
+
+# Using Docker to launch a Minecraft server
+
 - [Using Docker to launch a Minecraft server](#using-docker-to-launch-a-minecraft-server)
-  - [Goal](#goal)
   - [Prerequisites](#prerequisites)
   - [Docker](#docker)
     - [Docker image](#docker-image)
@@ -20,14 +25,6 @@ author: CrimsonCloak
       - [Restarting the container](#restarting-the-container)
     - [Customizing your Minecraft server](#customizing-your-minecraft-server)
 
-
-
-# Using Docker to launch a Minecraft server
-
-
-
-## Goal
-In this guide, we will set up a simple Minecraft server using a Docker container on a Linux machine (Ubuntu 22.04) We will use a pre-made image, spin it up using `docker run`, manage it using `docker compose`, learn how to customize it and playtest it. 
 
 ## Prerequisites
 We need to make sure that Docker and all its requirements are installed on the machine that will be hosting our server. This could be your own laptop, a virtual machine or a dedicated server. For documentation on installing Docker, please refer to the official [Docker documentation](https://docs.docker.com/engine/install/). We will be hosting the Minecraft server on Ubuntu 22.04, but the steps should be similar for other distributions. 

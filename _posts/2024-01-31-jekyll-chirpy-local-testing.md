@@ -6,11 +6,18 @@ tags: [jekyll, chirpy, tutorials]     # TAG names should always be lowercase
 author: CrimsonCloak
 ---
 
+In order to test our Jekyll setup without having to endlessly build and deploy on GitHub actions, we need a local serving of Jekyll. This short guide walks you throught installing the required software in order to test locally before you push remotely on your GitHub repository to trigger your GitHub Action.
+
 # Setting up local testing for Jekyll
 
-## Goal
+- [Setting up local testing for Jekyll](#setting-up-local-testing-for-jekyll)
+  - [Steps](#steps)
+    - [Install Ruby](#install-ruby)
+    - [Install Bundler](#install-bundler)
+    - [Install Ruby Gems](#install-ruby-gems)
+    - [Serve Jekyll server](#serve-jekyll-server)
 
-In order to test our Jekyll setup without having to endlessly build and deploy on GitHub actions, we need a local serving of Jekyll. This short guide walks you throught installing the required software in order to test locally before you push remotely on your GitHub repository to trigger your GitHub Action.
+
 
 ## Steps
 

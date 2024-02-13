@@ -6,12 +6,16 @@ tags: [jekyll, chirpy]     # TAG names should always be lowercase
 author: CrimsonCloak
 ---
 
-# Setting up our first blog post using Jekyll and GitHub actions
-
-## Introduction 
 It is important for organisations, groups and individuals to be able to express themselves and share their values, ongoing projects and interests. To this end, Eiland-X wondered what would be a good way to communicate what's keeping us busy to the outside world. 
 
 Stumbling upon Jekyll, a way to generate static sites, we attempted to use this in combination with GitHub pages to automate a way to build and deploy static webpages containing information, mostly in the form of blogposts, that we want to share. The result of this exploratory process is this very blogpost!
+- [Setting up our first blog post using Jekyll and GitHub actions](#setting-up-our-first-blog-post-using-jekyll-and-github-actions)
+  - [Plans for the future](#plans-for-the-future)
+
+
+# Setting up our first blog post using Jekyll and GitHub actions
+
+
 
 ## Plans for the future
 
