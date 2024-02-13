@@ -2,7 +2,7 @@
 title: Launch Minecraft server using Ansible and Docker
 date: 2024-02-13
 categories: [Guide, Tutorial ]
-tags: [docker, ansible, minecraft]     # TAG names should always be lowercase
+tags: [docker, ansible, minecraft, gaming]     # TAG names should always be lowercase
 author: CrimsonCloak
 ---
 
