@@ -54,7 +54,7 @@ docker run -p 25565:25565 -v /srv/minecraft/data:/data -i -t --restart unless-st
 
 This command will start the Minecraft server and map the server's data to a folder on the host machine - in this case "/srv/minecraft". This way, the server's data will be persistent, accessible from the server and can be backed up easily. It will also open the server's port 25565 (the standard Minecraft port) to the host machine, so that the server can be accessed on the host.
 
-> `docker run` is a simple command-line tool for managing your Docker containers! It is ideal for getting started and experiencing with simple containers.
+> `docker run` is a simple command-line tool for managing your Docker containers! It is ideal for getting started and experimenting with simple containers.
 {: .prompt-tip }
 
 ### Docker compose file 
