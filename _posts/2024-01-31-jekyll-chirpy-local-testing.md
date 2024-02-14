@@ -10,15 +10,6 @@ In order to test our Jekyll setup without having to endlessly build and deploy o
 
 # Setting up local testing for Jekyll
 
-- [Setting up local testing for Jekyll](#setting-up-local-testing-for-jekyll)
-  - [Steps](#steps)
-    - [Install Ruby](#install-ruby)
-    - [Install Bundler](#install-bundler)
-    - [Install Ruby Gems](#install-ruby-gems)
-    - [Serve Jekyll server](#serve-jekyll-server)
-
-
-
 ## Steps
 
 ### Install Ruby
