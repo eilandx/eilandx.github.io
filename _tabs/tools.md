@@ -16,6 +16,14 @@ Below you will find a collection of tools that we use and/or have used in the pa
   
 <!-- | ------  | ------                        | -------                    | -->
 
+
+## CI/CD
+
+| Tool        | Link                          |                                               Usage |
+|:------------|:------------------------------|----------------------------------------------------:|
+| Jenkins     | [https://www.jenkins.io/](https://www.jenkins.io/) | Open source automation server |
+| Argocd      | [https://argoproj.github.io/argo-cd/](https://argoproj.github.io/argo-cd/) | Declarative GitOps CD for Kubernetes |
+| GitHub Actions | (https://github.com/features/actions)[https://github.com/features/actions] | CI/CD for GitHub repositories |
 ## Creation and generation
 
 
