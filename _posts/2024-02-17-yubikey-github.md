@@ -56,7 +56,10 @@ In the Two-factor authentication section, you will find the option to edit a sec
 
 Once you have clicked the "Register a new security key" button, chosen a descriptive name and have pressed the "Add" button, your browser will prompt you to touch your security key. 
 ![Browser prompt](/assets/img/yubikey/browser_key_prompt.png)
-Insert your YubiKey into your device and press the button on the key to link your YubiKey to your account. Be sure to also select "Security keys" as your preferred 2FA method in this tab if you always want to be prompted for your hardware key, should you have any other forms of 2FA implemented. You can now also see your YubiKey in the list of security keys on your account!
+Insert your YubiKey into your device and press the button on the key to link your YubiKey to your account.You can now also see your YubiKey in the list of security keys on your account!
+
+> Be sure to also select "Security keys" as your preferred 2FA method in this tab if you always want to be prompted for your hardware key, should you have any other forms of 2FA implemented..
+{: .prompt-tip } 
 
 ![YubiKey visualised](/assets/img/yubikey/2FA_key_registered.png)
 
