@@ -25,6 +25,14 @@ Below you will find a collection of tools that we use and/or have used in the pa
 | Argocd      | [https://argoproj.github.io/argo-cd/](https://argoproj.github.io/argo-cd/) | Declarative GitOps CD for Kubernetes |
 | GitHub Actions | [https://github.com/features/actions](https://github.com/features/actions) | CI/CD for GitHub repositories |
 
+
+## Security
+
+| Tool        | Link                          |                                               Usage |
+|:------------|:------------------------------|----------------------------------------------------:|
+| YubiKey     | [https://www.yubico.com/](https://www.yubico.com/) | Hardware security keys |
+
+
 ## Creation and generation
 
 
