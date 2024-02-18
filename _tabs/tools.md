@@ -17,13 +17,16 @@ Below you will find a collection of tools that we use and/or have used in the pa
 <!-- | ------  | ------                        | -------                    | -->
 
 
-## CI/CD
+## CI/CD and automation
 
 | Tool           | Link                                                                       |                                Usage |
 |:---------------|:---------------------------------------------------------------------------|-------------------------------------:|
 | Jenkins        | [https://www.jenkins.io/](https://www.jenkins.io/)                         |        Open source automation server |
 | Argocd         | [https://argoproj.github.io/argo-cd/](https://argoproj.github.io/argo-cd/) | Declarative GitOps CD for Kubernetes |
 | GitHub Actions | [https://github.com/features/actions](https://github.com/features/actions) |        CI/CD for GitHub repositories |
+| n8n            | [https://n8n.io/](https://n8n.io/)                                         |             Workflow automation tool |
+| Terraform      | [https://www.terraform.io/](https://www.terraform.io/)                     |         Infrastructure as Code (IaC) |
+| Ansible        | [https://www.ansible.com/](https://www.ansible.com/)                       |         Automation for IT operations |
 
 
 ## Security
