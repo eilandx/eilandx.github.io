@@ -12,13 +12,13 @@ In this guide, we will show you how to properly set up an SSH config file for yo
 
 Imagine you are managing multiple devices or need to perform maintenance tasks on different servers. Every time you would open up a remote SSH-connection, you most likely use an SSH command such as `ssh [USERNAME]@[IP]`, followed by inputting your user's password. More advanced users maybe even strictly use ssh-keys to connect to their devices. In that case, your command becomes something like `ssh -i [/path/to/private_key] [USERNAME]@[IP]`, adding your IdentityFile (~ private key file) location to your command.
 
-You can already tell that if you're switching between these servers or devices frequently, it can become quite tedious to keep typing these long commands, even if you're making use of your shell's history. An SSH-configuration file can help you manage this so this becomes more efficient, less error-prone and less annoying in general!.
+You can already tell that if you're switching between these servers or devices frequently, it can become quite tedious to keep typing these long commands, even if you're making use of your shell's history. An SSH-configuration file can help you manage this so this becomes more efficient, less error-prone and less annoying in general!
 
 ## Defining your SSH configuration file
 
 ### Location
 
-In order to make use an SSH configuration file, we need to create a new file inside your user's .ssh directory - which is usually located under your user's home directory. For example, if I'm logged in as user "crimsoncloak" on a Linux OS, my .ssh directory would be located at `/home/crimsoncloak/.ssh`. For a Windows machine, this would be located at `"C:\Users\alexa\.ssh\config"` (be mindful of the difference between backslashes and forward slashes!).
+In order to make use an SSH configuration file, we need to create a new file inside your user's .ssh directory - which is usually located under your user's home directory. For example, if I'm logged in as user "crimsoncloak" on a Linux OS, my .ssh directory would be located at `/home/crimsoncloak/.ssh`. For a Windows machine, this would be located at `"C:\Users\crimsoncloak\.ssh\config"` (be mindful of the difference between backslashes and forward slashes!).
 
 Inside of that `.ssh` directory, we create a new file called `config`, without any file extension. This is the file in which we will define all of our SSH configurations that will be picked up when we use `ssh` or `scp` commands with our specific user. 
 
