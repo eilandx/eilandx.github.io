@@ -90,7 +90,3 @@ In the example above, we assume your private key file is located at `~/.ssh/id_r
 ## Conclusion
 
 When you want to make your life easier managing remote SSH-connections, your SSH configuration file can be a great asset to your workflow. By defining your SSH-commands inside your `config` file, you don't have to retype your long commands or go through your shell's history to find your specific command. Using the configuration file can save you a lot of time, improve your workflow and make your experience switching remote hosts a lot more pleasant. 
-
-
-
-
