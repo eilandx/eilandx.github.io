@@ -1,13 +1,12 @@
---- Uncomment the below lines and fill in the information to create a new blog post.
+--- 
 title: Configuring a homelab using Terraform and Ansible on Proxmox and Kubernetes - Part 1
-date: 2024-02-12 # AANPASSEN
-categories: [Guide, Tutorial ] # CATEGORIES always with capitalisation of first letter
-tags: [proxmox, kubernetes, terraform, ansible, homelab, proxy, dns]     # TAG names should always be lowercase
-author: jvekeman # Check _data/authors.yml for the correct author names or to add a new author
+date: 2024-02-12
+categories: [Guide, Tutorial ]
+tags: [proxmox, kubernetes, terraform, ansible, homelab, proxy, dns]
+author: jvekeman
 pin: true
 ---
 
-<!-- Add little information for preview snippet -->
 In this series of guides, we will set up a homelab using Proxmox as our hypervisor, Kubernetes as our container orchestration platform, and a Raspberry Pi as DNS and proxy server. To automate the setup Terraform and Ansible will be used. We will start by setting up a DNS and a Proxy on a Raspberry Pi.
 
 
