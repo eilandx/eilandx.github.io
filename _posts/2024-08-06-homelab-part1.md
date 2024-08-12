@@ -1,8 +1,8 @@
 --- 
 title: Configuring a homelab using Terraform and Ansible on Proxmox and Kubernetes - Part 1
-date: 2024-02-12
-categories: [Guide, Tutorial ]
-tags: [proxmox, kubernetes, terraform, ansible, homelab, proxy, dns]
+date: 2024-08-06
+categories: [Guide, Tutorial]
+tags: [ansible, homelab, proxy, dns]
 author: jvekeman
 pin: true
 ---
