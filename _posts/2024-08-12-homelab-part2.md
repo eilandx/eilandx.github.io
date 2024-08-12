@@ -67,7 +67,7 @@ The provider configuration allows us to connect to the AdGuard API. The backend 
 
 ### Variables.tf file
 
-Start by creating a `variables.tf` file in the `variables/` directory. This file contains all the variables that are used in our Terraform configuration.
+Start by creating a `variables.tf` file in the root directory. This file contains all the variables that are used in our Terraform configuration.
 
 ```hcl
 variable "adguard_host" {
@@ -155,9 +155,9 @@ You can verify that the DNS records have been created by logging into the AdGuar
 
 ### Testing the infrastructure
 
-To test the infrastructure, you can try to access adguard in your homelab using the domain name. Remeber to set the DNS server in your network configuration to the IP address of the RPI with the DNS server.
+To test the infrastructure, you can try to access adguard in your homelab using the domain name. Remember to set the DNS server in your network configuration to the IP address of the RPI with the DNS server.
 
-> Note: the connection should be using SSL, if you don't have a valid SSL certificate, your browser will show a warning. You can ignore this warning. 
+> Note: the connection should be using https, if you don't have a valid certificate, your browser will show a warning. You can ignore this warning. 
 > If your infrastructure is not working as expected, review part 1 and make sure that the Proxy server is correctly configured.
 {: .prompt-tip }
 

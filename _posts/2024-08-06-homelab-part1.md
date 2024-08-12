@@ -4,7 +4,7 @@ date: 2024-08-06
 categories: [Guide, Tutorial]
 tags: [ansible, homelab, proxy, dns]
 author: jvekeman
-pin: true
+pin: false
 ---
 
 In this series of guides, we will set up a homelab using Proxmox as our hypervisor, Kubernetes as our container orchestration platform, and a Raspberry Pi as DNS and proxy server. To automate the setup Terraform and Ansible will be used. We will start by setting up a DNS and a Proxy on a Raspberry Pi.
