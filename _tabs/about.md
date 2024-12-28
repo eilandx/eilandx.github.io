@@ -42,7 +42,7 @@ Besides general IT-skills, troubleshooting and problem-solving, we focus on the 
 
 - Dockerisation: packing and deploying (custom) software using Docker
 
-- CI/CD: creating and maintaining pipelines for quality-ensurance, testing and deployment
+- CI/CD: creating and maintaining pipelines for quality-assurance, testing and deployment
 
 - Webhosting: management of WordPress hosting and backing up these systems
 
